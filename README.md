@@ -1,2 +1,2 @@
 # hackermen
-hackermen
+go to wiki
